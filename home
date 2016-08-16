@@ -1,0 +1,113 @@
+<html>
+<head>
+	<title>GinnyShinResume</title>
+		<meta name='viewport' content="width=device-width" />
+	<style>
+		.container {width:1300px; margin:0 auto;}
+		.about {font-family: sans-serif; font-style:normal; float:left;}
+		.therest {font-family: sans-serif; font-style: normal; float:right;} 
+		h4 {font-weight:normal;}
+		.about {position: fixed; margin-top: 100px; margin-left: 150px; width: 210px; height: 250px; font-size: 15px; font-family: sans-serif;}
+		.therest {position: relative; margin-top: 100px; padding-right: 150px; width: 650px; height: 250px; font-size: 15px;}
+		h1 {font-family:impact}
+		h2 {font-family:impact;}
+		.prof {float:left;}
+		em {font-style:bold;}
+		.about h1 {text-align:center;}
+		.about h4 {text-align:center;}
+		/* ----- Media Styles -----*/
+		@media screen and (max-width: 900px) {
+			.therest {float:none; width:auto; margin:0; position:static; height:auto;}
+			.about {float:none; width:auto; margin:0; position:static; height:auto;}
+			.container {width:auto;}
+			.about h1 {text-align:left;}
+			.about h4 {text-align:left;}
+		}
+
+
+	</style>
+	<link rel="stylesheet" href="print.css" media="print" />
+
+</head>
+
+<body>
+
+<div class="container">
+<div class="about">
+	<h1>Ginny Shin</h1>
+	<p>
+	<a href="https://www.behance.net/ginnyshin" target="_blank">
+	<img src="index.jpg"></p></a>
+	<h4>김민주 멍청이</h4><br><br>
+
+	
+	
+</div>
+
+
+<div class="therest">
+	<h2>Education</h4>
+	<h4><b>Maryland Institute College of Art</b><br>
+		<em>2014 &mdash; present</em><br>
+		BFA Candidate in Graphic Design<br>
+		Expected Graduation 2018</h4><br>
+
+	<h2>Experience</h2>
+	<h4>
+		<b>Maryland Institute College of Art &mdash; Office of Diversity</b><br>
+		<em>2016 &mdash; present</em><br>
+		Program manager<br>
+		International identity program manager, organize campus events and plans with other program managers that represent different identities<br><br>
+
+		<b>MICA Design League</b><br>
+		<em>2015 &mdash; present</em><br>
+		Club Leader<br>
+		organize club events with other leaders such as book fairs in NYC, graphic design lectures and presentations given by guest speakers, making zines and participating PMF, and many other events related to graphic design
+
+	<br><br>
+
+		<b>Maryland Institute College of Art &mdash; Student Affairs</b><br>
+		<em>2015</em><br>
+		Orientation Leader
+	<br>
+		Facilitated orientation for incoming foundation and transfer students<br><br>
+
+		<b>Maryland Institute College of Art &mdash; Admissions</b><br>
+		<em>2015</em><br>
+		Tour Guide<br>
+		Gave tours to families and students who are interested in coming to MICA<br><br><br>
+
+
+	<h2>Skills</h2>
+	</h4>
+		data visualization<br>
+		branding<br>
+		typography<br>
+		web design<br>
+		html/css<br>
+		hand lettering<br>
+		illustration<br>
+		screenprinting<br><br><br>
+
+
+
+
+
+
+	<h2>Exhibition</h2>
+	<h4><b>Sweet 16+5</b><br>
+		MICA Bronze Gallery, Baltimore, MD<br><br>
+
+		<b>Parents' Week Selected Exhibition</b><br>
+		MICA Main Building, Baltimore, MD</h4><br>
+
+
+			<h2>Language Skills</h2>
+	<h4><b>Bilingual</b><br>
+	Korean/English</h4><br>
+
+</body>
+</div>
+</div>
+
+	</html>
